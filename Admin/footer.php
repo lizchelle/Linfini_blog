@@ -1,0 +1,1 @@
+<footer><p>All right reserved.  <a href="http://linfininaturel.com">L'infini Naturel Inc. 2022</a></p></footer>
